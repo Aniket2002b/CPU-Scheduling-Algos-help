@@ -7,7 +7,7 @@ using namespace std;
 //Global constants
 
 const string TRACE = "trcee";
-const string SHOW_STATISTICS = "stats";
+const string SHOW_STATISTICS = "statss";
 const string ALGORITHMS[9] = {"", "FCFS","RR-","SPN","SRT","FB-1","FB-2i","AGING"};
 
 bool sortByServiceTime(const tuple<string, int, int> &a, const tuple<string, int, int> &b)
