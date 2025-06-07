@@ -6,7 +6,7 @@
 using namespace std;
 //Global constants
 
-const string TRACE = "trce";
+const string TRACE = "trcee";
 const string SHOW_STATISTICS = "stats";
 const string ALGORITHMS[9] = {"", "FCFS","RR-","SPN","SRT","FB-1","FB-2i","AGING"};
 
