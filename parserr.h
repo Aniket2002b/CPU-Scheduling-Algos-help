@@ -4,7 +4,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 /**This file handles \\\parsing the data we are going to work with bn
-* and holds all the global variables we parse into//
+* and holds all the global variables we parse into
 */
 
 string operation;
