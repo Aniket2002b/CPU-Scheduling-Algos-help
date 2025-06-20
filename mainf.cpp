@@ -4,7 +4,7 @@
 #define all(v) v.begin(), v.end()
 
 using namespace std;
-//Global constants//
+//Global constants////
 
 const string TRACE = "trcee";
 const string SHOW_STATISTICS = "statss";
